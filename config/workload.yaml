@@ -9,7 +9,7 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/meliugalde/tapdemo.git
+      url: https://github.com/meliugalde/tapdemo
       ref:
         branch: main
     subPath: weatherforecast-csharp
