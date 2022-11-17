@@ -8,7 +8,7 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+      url: https://github.com/meliugalde/tapDemo.git
       ref:
         branch: main
     subPath: weatherforecast-csharp
