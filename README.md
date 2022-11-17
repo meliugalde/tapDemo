@@ -34,7 +34,7 @@ If you would like deploy the code from your local working directory you can use 
 ```
 tanzu apps workload create weatherforecast-csharp -f config/workload.yaml \
   --local-path . \
-  --source-image <REPOSITORY-PREFIX>/weatherforecast-csharp-source \
+  --source-image https://github.com/meliugalde/tapDemo \
   --type web
 ```
 
