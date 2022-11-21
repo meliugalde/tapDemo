@@ -12,4 +12,4 @@ spec:
       url: https://github.com/meliugalde/tapdemo
       ref:
         branch: master
-    subPath: weatherforecast-csharp
+#    subPath: weatherforecast-csharp
